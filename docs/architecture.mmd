@@ -1,0 +1,18 @@
+flowchart LR
+    U(["Agile coach or<br/>scrum master"]) -->|"uploads a CSV<br/>or picks demo data"| UI["Streamlit UI<br/>app.py"]
+    EX[("examples/<br/>fictional exports")] -->|demo mode| UI
+    UI --> L["loading.py<br/>type, size and row checks"]
+    L --> A["adapters/<br/>Jira · Azure DevOps · canonical"]
+    A -->|"canonical<br/>transitions"| T["timeline.py<br/>status intervals + item facts"]
+    CFG[/"workflow.yaml + env vars<br/>(no secrets needed)"/] --> W["workflow.py<br/>status → category"]
+    W --> T
+    T --> M["metrics.py<br/>lead · cycle · throughput<br/>WIP · flow efficiency"]
+    M --> C["charts.py<br/>Plotly figures"]
+    C --> UI
+    M --> CLI["cli.py<br/>flow-metrics summary"]
+
+    subgraph Delivery
+        GH["GitHub repo"] -->|"push / pull request"| CI["GitHub Actions<br/>ruff · pytest · smoke tests"]
+        GH -->|"main branch"| SC["Streamlit<br/>Community Cloud"]
+    end
+    SC -.->|hosts| UI

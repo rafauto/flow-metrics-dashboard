@@ -1,0 +1,7 @@
+# Example of a custom status mapping for a team with its own workflow names.
+# Use it with: flow-metrics summary my_export.csv --workflow examples/workflow.yaml
+# or set FLOW_METRICS_WORKFLOW_FILE=examples/workflow.yaml for the app.
+backlog: [Idea, Refined, Ready]
+active: [Building, Pairing, Verifying]
+waiting: [Waiting on Customer, Blocked, Ready to Ship]
+done: [Shipped, Won't Do]
