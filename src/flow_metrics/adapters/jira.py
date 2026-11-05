@@ -52,11 +52,12 @@ class JiraAdapter:
         to_status = initial.reindex(issues.index).fillna(issues["status"])
         return pd.DataFrame(
             {
-                "item_id": issues.index,
-                "item_type": issues["item_type"].to_numpy(),
-                "created_at": issues["created_at"].to_numpy(),
-                "from_status": pd.NA,
-                "to_status": to_status.to_numpy(),
-                "changed_at": issues["created_at"].to_numpy(),
+                "item_id": pd.array(issues.index, dtype="string"),
+                "item_type": issues["item_type"].array,
+                "created_at": issues["created_at"].array,
+                # Typed as string (not object) so concat with the change rows keeps one dtype.
+                "from_status": pd.array([pd.NA] * len(issues), dtype="string"),
+                "to_status": to_status.array,
+                "changed_at": issues["created_at"].array,
             }
         )

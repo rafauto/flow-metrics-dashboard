@@ -75,10 +75,12 @@ def generate_transitions(config: SampleConfig | None = None) -> pd.DataFrame:
 def to_jira_export(transitions: pd.DataFrame) -> pd.DataFrame:
     """Jira-style status history: one row per change, issues without changes get one blank row."""
     current = transitions.groupby("item_id")["to_status"].last()
-    changes = transitions[transitions["from_status"].notna()]
-    unchanged = transitions[~transitions["item_id"].isin(changes["item_id"])]
-    unchanged = unchanged.assign(from_status=None, to_status=None, changed_at=None)
-    rows = pd.concat([changes, unchanged]).sort_values(["item_id", "created_at"], kind="stable")
+    is_change = transitions["from_status"].notna()
+    has_changes = is_change.groupby(transitions["item_id"]).transform("any")
+    rows = transitions[is_change | ~has_changes].copy()
+    blank = ~has_changes.loc[rows.index]  # issues that never moved: transition columns empty
+    rows["to_status"] = rows["to_status"].where(~blank)
+    rows["changed_at"] = rows["changed_at"].where(~blank)
     return pd.DataFrame(
         {
             "Issue key": rows["item_id"],
