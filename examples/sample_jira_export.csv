@@ -1,0 +1,754 @@
+Issue key,Issue Type,Status,Created,From Status,To Status,Status Changed
+FLOW-101,Bug,Done,2026-07-01 07:16,To Do,In Progress,2026-07-01 21:27
+FLOW-101,Bug,Done,2026-07-01 07:16,In Progress,Waiting for Review,2026-07-02 02:33
+FLOW-101,Bug,Done,2026-07-01 07:16,Waiting for Review,In Review,2026-07-03 03:04
+FLOW-101,Bug,Done,2026-07-01 07:16,In Review,Ready for Deploy,2026-07-03 11:05
+FLOW-101,Bug,Done,2026-07-01 07:16,Ready for Deploy,Done,2026-07-04 07:34
+FLOW-102,Story,Done,2026-07-13 19:21,To Do,In Progress,2026-07-14 00:25
+FLOW-102,Story,Done,2026-07-13 19:21,In Progress,Waiting for Review,2026-07-14 14:55
+FLOW-102,Story,Done,2026-07-13 19:21,Waiting for Review,In Review,2026-07-15 22:21
+FLOW-102,Story,Done,2026-07-13 19:21,In Review,Ready for Deploy,2026-07-16 10:53
+FLOW-102,Story,Done,2026-07-13 19:21,Ready for Deploy,Done,2026-07-16 21:03
+FLOW-103,Bug,Done,2026-06-27 22:23,To Do,In Progress,2026-06-29 23:02
+FLOW-103,Bug,Done,2026-06-27 22:23,In Progress,Waiting for Review,2026-06-30 11:57
+FLOW-103,Bug,Done,2026-06-27 22:23,Waiting for Review,In Review,2026-06-30 17:20
+FLOW-103,Bug,Done,2026-06-27 22:23,In Review,Ready for Deploy,2026-07-01 06:59
+FLOW-103,Bug,Done,2026-06-27 22:23,Ready for Deploy,Done,2026-07-01 10:31
+FLOW-104,Story,Done,2026-08-31 02:24,To Do,In Progress,2026-09-10 00:35
+FLOW-104,Story,Done,2026-08-31 02:24,In Progress,Waiting for Review,2026-09-13 08:17
+FLOW-104,Story,Done,2026-08-31 02:24,Waiting for Review,In Review,2026-09-14 07:37
+FLOW-104,Story,Done,2026-08-31 02:24,In Review,Ready for Deploy,2026-09-16 12:53
+FLOW-104,Story,Done,2026-08-31 02:24,Ready for Deploy,Done,2026-09-17 07:12
+FLOW-105,Bug,Done,2026-10-19 04:34,To Do,In Progress,2026-10-22 08:11
+FLOW-105,Bug,Done,2026-10-19 04:34,In Progress,Waiting for Review,2026-10-24 05:17
+FLOW-105,Bug,Done,2026-10-19 04:34,Waiting for Review,In Review,2026-10-24 07:18
+FLOW-105,Bug,Done,2026-10-19 04:34,In Review,Ready for Deploy,2026-10-24 10:44
+FLOW-105,Bug,Done,2026-10-19 04:34,Ready for Deploy,Done,2026-10-24 19:19
+FLOW-106,Story,Done,2026-08-08 03:04,To Do,In Progress,2026-08-11 19:15
+FLOW-106,Story,Done,2026-08-08 03:04,In Progress,Waiting for Review,2026-08-16 08:14
+FLOW-106,Story,Done,2026-08-08 03:04,Waiting for Review,In Review,2026-08-16 14:33
+FLOW-106,Story,Done,2026-08-08 03:04,In Review,Ready for Deploy,2026-08-16 22:04
+FLOW-106,Story,Done,2026-08-08 03:04,Ready for Deploy,Done,2026-08-18 15:12
+FLOW-107,Bug,In Progress,2026-10-29 04:27,To Do,In Progress,2026-10-29 21:52
+FLOW-108,Story,Done,2026-09-03 19:51,To Do,In Progress,2026-09-10 20:51
+FLOW-108,Story,Done,2026-09-03 19:51,In Progress,Waiting for Review,2026-09-11 12:56
+FLOW-108,Story,Done,2026-09-03 19:51,Waiting for Review,In Review,2026-09-12 01:25
+FLOW-108,Story,Done,2026-09-03 19:51,In Review,Ready for Deploy,2026-09-12 23:40
+FLOW-108,Story,Done,2026-09-03 19:51,Ready for Deploy,Done,2026-09-13 02:56
+FLOW-109,Task,Done,2026-08-23 04:14,To Do,In Progress,2026-09-02 11:44
+FLOW-109,Task,Done,2026-08-23 04:14,In Progress,Waiting for Review,2026-09-04 00:06
+FLOW-109,Task,Done,2026-08-23 04:14,Waiting for Review,In Review,2026-09-05 02:49
+FLOW-109,Task,Done,2026-08-23 04:14,In Review,In Progress,2026-09-05 06:26
+FLOW-109,Task,Done,2026-08-23 04:14,In Progress,Waiting for Review,2026-09-06 12:41
+FLOW-109,Task,Done,2026-08-23 04:14,Waiting for Review,In Review,2026-09-08 09:26
+FLOW-109,Task,Done,2026-08-23 04:14,In Review,Ready for Deploy,2026-09-08 21:01
+FLOW-109,Task,Done,2026-08-23 04:14,Ready for Deploy,Done,2026-09-09 02:06
+FLOW-110,Story,Done,2026-10-06 22:39,To Do,In Progress,2026-10-10 08:24
+FLOW-110,Story,Done,2026-10-06 22:39,In Progress,Waiting for Review,2026-10-12 14:09
+FLOW-110,Story,Done,2026-10-06 22:39,Waiting for Review,In Review,2026-10-13 04:18
+FLOW-110,Story,Done,2026-10-06 22:39,In Review,Ready for Deploy,2026-10-16 18:48
+FLOW-110,Story,Done,2026-10-06 22:39,Ready for Deploy,Done,2026-10-17 01:22
+FLOW-111,Story,Done,2026-07-05 07:51,To Do,In Progress,2026-07-06 10:09
+FLOW-111,Story,Done,2026-07-05 07:51,In Progress,Waiting for Review,2026-07-09 07:48
+FLOW-111,Story,Done,2026-07-05 07:51,Waiting for Review,In Review,2026-07-10 11:08
+FLOW-111,Story,Done,2026-07-05 07:51,In Review,Ready for Deploy,2026-07-10 19:20
+FLOW-111,Story,Done,2026-07-05 07:51,Ready for Deploy,Done,2026-07-12 05:09
+FLOW-112,Story,Done,2026-08-11 12:26,To Do,In Progress,2026-08-11 15:18
+FLOW-112,Story,Done,2026-08-11 12:26,In Progress,Waiting for Review,2026-08-14 21:02
+FLOW-112,Story,Done,2026-08-11 12:26,Waiting for Review,In Review,2026-08-16 07:12
+FLOW-112,Story,Done,2026-08-11 12:26,In Review,Ready for Deploy,2026-08-16 19:29
+FLOW-112,Story,Done,2026-08-11 12:26,Ready for Deploy,Done,2026-08-17 07:51
+FLOW-113,Bug,Done,2026-07-17 01:22,To Do,In Progress,2026-07-17 02:51
+FLOW-113,Bug,Done,2026-07-17 01:22,In Progress,Waiting for Review,2026-07-19 02:09
+FLOW-113,Bug,Done,2026-07-17 01:22,Waiting for Review,In Review,2026-07-20 01:20
+FLOW-113,Bug,Done,2026-07-17 01:22,In Review,Ready for Deploy,2026-07-21 09:23
+FLOW-113,Bug,Done,2026-07-17 01:22,Ready for Deploy,Done,2026-07-22 17:35
+FLOW-114,Story,Done,2026-07-16 02:54,To Do,In Progress,2026-07-22 06:48
+FLOW-114,Story,Done,2026-07-16 02:54,In Progress,Waiting for Review,2026-07-24 16:20
+FLOW-114,Story,Done,2026-07-16 02:54,Waiting for Review,In Review,2026-07-24 22:19
+FLOW-114,Story,Done,2026-07-16 02:54,In Review,Ready for Deploy,2026-07-25 20:13
+FLOW-114,Story,Done,2026-07-16 02:54,Ready for Deploy,Done,2026-07-27 01:19
+FLOW-115,Bug,Done,2026-10-01 07:09,To Do,In Progress,2026-10-03 18:17
+FLOW-115,Bug,Done,2026-10-01 07:09,In Progress,Waiting for Review,2026-10-03 23:45
+FLOW-115,Bug,Done,2026-10-01 07:09,Waiting for Review,In Review,2026-10-04 08:45
+FLOW-115,Bug,Done,2026-10-01 07:09,In Review,Ready for Deploy,2026-10-05 22:25
+FLOW-115,Bug,Done,2026-10-01 07:09,Ready for Deploy,Done,2026-10-07 11:07
+FLOW-116,Story,Done,2026-08-09 14:23,To Do,In Progress,2026-08-10 04:29
+FLOW-116,Story,Done,2026-08-09 14:23,In Progress,Waiting for Review,2026-08-11 21:37
+FLOW-116,Story,Done,2026-08-09 14:23,Waiting for Review,In Review,2026-08-12 00:53
+FLOW-116,Story,Done,2026-08-09 14:23,In Review,Ready for Deploy,2026-08-12 22:40
+FLOW-116,Story,Done,2026-08-09 14:23,Ready for Deploy,Done,2026-08-15 04:08
+FLOW-117,Story,Done,2026-09-21 06:32,To Do,In Progress,2026-09-25 19:45
+FLOW-117,Story,Done,2026-09-21 06:32,In Progress,Waiting for Review,2026-09-28 04:55
+FLOW-117,Story,Done,2026-09-21 06:32,Waiting for Review,In Review,2026-10-02 06:09
+FLOW-117,Story,Done,2026-09-21 06:32,In Review,Ready for Deploy,2026-10-03 21:25
+FLOW-117,Story,Done,2026-09-21 06:32,Ready for Deploy,Done,2026-10-06 01:17
+FLOW-118,Bug,Done,2026-08-22 11:54,To Do,In Progress,2026-08-24 05:29
+FLOW-118,Bug,Done,2026-08-22 11:54,In Progress,Waiting for Review,2026-08-27 17:26
+FLOW-118,Bug,Done,2026-08-22 11:54,Waiting for Review,In Review,2026-08-28 05:01
+FLOW-118,Bug,Done,2026-08-22 11:54,In Review,Ready for Deploy,2026-08-28 08:41
+FLOW-118,Bug,Done,2026-08-22 11:54,Ready for Deploy,Done,2026-08-28 11:19
+FLOW-119,Story,Done,2026-10-05 14:07,To Do,In Progress,2026-10-06 01:55
+FLOW-119,Story,Done,2026-10-05 14:07,In Progress,Waiting for Review,2026-10-08 14:57
+FLOW-119,Story,Done,2026-10-05 14:07,Waiting for Review,In Review,2026-10-08 23:38
+FLOW-119,Story,Done,2026-10-05 14:07,In Review,Ready for Deploy,2026-10-10 10:48
+FLOW-119,Story,Done,2026-10-05 14:07,Ready for Deploy,Done,2026-10-13 10:41
+FLOW-120,Story,Done,2026-08-09 01:51,To Do,In Progress,2026-08-13 18:38
+FLOW-120,Story,Done,2026-08-09 01:51,In Progress,Waiting for Review,2026-08-17 00:56
+FLOW-120,Story,Done,2026-08-09 01:51,Waiting for Review,In Review,2026-08-19 15:46
+FLOW-120,Story,Done,2026-08-09 01:51,In Review,Ready for Deploy,2026-08-20 05:20
+FLOW-120,Story,Done,2026-08-09 01:51,Ready for Deploy,Done,2026-08-20 16:33
+FLOW-121,Story,Done,2026-09-08 20:28,To Do,In Progress,2026-09-12 06:53
+FLOW-121,Story,Done,2026-09-08 20:28,In Progress,Waiting for Review,2026-09-13 17:08
+FLOW-121,Story,Done,2026-09-08 20:28,Waiting for Review,In Review,2026-09-14 12:27
+FLOW-121,Story,Done,2026-09-08 20:28,In Review,In Progress,2026-09-15 08:27
+FLOW-121,Story,Done,2026-09-08 20:28,In Progress,Waiting for Review,2026-09-18 04:47
+FLOW-121,Story,Done,2026-09-08 20:28,Waiting for Review,In Review,2026-09-23 05:23
+FLOW-121,Story,Done,2026-09-08 20:28,In Review,Ready for Deploy,2026-09-23 08:05
+FLOW-121,Story,Done,2026-09-08 20:28,Ready for Deploy,Done,2026-09-24 03:50
+FLOW-122,Story,Done,2026-07-16 15:24,To Do,In Progress,2026-07-20 06:20
+FLOW-122,Story,Done,2026-07-16 15:24,In Progress,Waiting for Review,2026-07-21 16:25
+FLOW-122,Story,Done,2026-07-16 15:24,Waiting for Review,In Review,2026-07-22 03:01
+FLOW-122,Story,Done,2026-07-16 15:24,In Review,Ready for Deploy,2026-07-22 08:21
+FLOW-122,Story,Done,2026-07-16 15:24,Ready for Deploy,Done,2026-07-26 05:59
+FLOW-123,Story,Done,2026-10-04 22:24,To Do,In Progress,2026-10-09 15:36
+FLOW-123,Story,Done,2026-10-04 22:24,In Progress,Blocked,2026-10-09 17:42
+FLOW-123,Story,Done,2026-10-04 22:24,Blocked,In Progress,2026-10-10 01:57
+FLOW-123,Story,Done,2026-10-04 22:24,In Progress,Waiting for Review,2026-10-13 15:11
+FLOW-123,Story,Done,2026-10-04 22:24,Waiting for Review,In Review,2026-10-14 00:09
+FLOW-123,Story,Done,2026-10-04 22:24,In Review,Ready for Deploy,2026-10-14 08:52
+FLOW-123,Story,Done,2026-10-04 22:24,Ready for Deploy,Done,2026-10-15 09:42
+FLOW-124,Task,Done,2026-07-07 10:10,To Do,In Progress,2026-07-09 13:16
+FLOW-124,Task,Done,2026-07-07 10:10,In Progress,Waiting for Review,2026-07-14 04:07
+FLOW-124,Task,Done,2026-07-07 10:10,Waiting for Review,In Review,2026-07-15 12:19
+FLOW-124,Task,Done,2026-07-07 10:10,In Review,In Progress,2026-07-15 16:54
+FLOW-124,Task,Done,2026-07-07 10:10,In Progress,Waiting for Review,2026-07-17 20:12
+FLOW-124,Task,Done,2026-07-07 10:10,Waiting for Review,In Review,2026-07-18 23:50
+FLOW-124,Task,Done,2026-07-07 10:10,In Review,Ready for Deploy,2026-07-19 16:27
+FLOW-124,Task,Done,2026-07-07 10:10,Ready for Deploy,Done,2026-07-20 20:59
+FLOW-125,Story,Done,2026-07-31 07:40,To Do,In Progress,2026-08-05 13:30
+FLOW-125,Story,Done,2026-07-31 07:40,In Progress,Waiting for Review,2026-08-07 13:35
+FLOW-125,Story,Done,2026-07-31 07:40,Waiting for Review,In Review,2026-08-09 06:29
+FLOW-125,Story,Done,2026-07-31 07:40,In Review,Ready for Deploy,2026-08-09 08:32
+FLOW-125,Story,Done,2026-07-31 07:40,Ready for Deploy,Done,2026-08-10 17:19
+FLOW-126,Story,Done,2026-10-01 10:31,To Do,In Progress,2026-10-01 23:44
+FLOW-126,Story,Done,2026-10-01 10:31,In Progress,Waiting for Review,2026-10-02 13:16
+FLOW-126,Story,Done,2026-10-01 10:31,Waiting for Review,In Review,2026-10-03 16:30
+FLOW-126,Story,Done,2026-10-01 10:31,In Review,Ready for Deploy,2026-10-04 09:54
+FLOW-126,Story,Done,2026-10-01 10:31,Ready for Deploy,Done,2026-10-04 20:45
+FLOW-127,Story,Done,2026-10-08 10:56,To Do,In Progress,2026-10-14 07:14
+FLOW-127,Story,Done,2026-10-08 10:56,In Progress,Waiting for Review,2026-10-15 17:02
+FLOW-127,Story,Done,2026-10-08 10:56,Waiting for Review,In Review,2026-10-16 19:28
+FLOW-127,Story,Done,2026-10-08 10:56,In Review,Ready for Deploy,2026-10-17 07:19
+FLOW-127,Story,Done,2026-10-08 10:56,Ready for Deploy,Done,2026-10-21 10:45
+FLOW-128,Story,Done,2026-08-22 22:41,To Do,In Progress,2026-08-29 16:16
+FLOW-128,Story,Done,2026-08-22 22:41,In Progress,Waiting for Review,2026-08-30 14:52
+FLOW-128,Story,Done,2026-08-22 22:41,Waiting for Review,In Review,2026-08-31 03:01
+FLOW-128,Story,Done,2026-08-22 22:41,In Review,Ready for Deploy,2026-09-01 00:17
+FLOW-128,Story,Done,2026-08-22 22:41,Ready for Deploy,Done,2026-09-01 04:12
+FLOW-129,Story,Done,2026-10-07 05:45,To Do,In Progress,2026-10-08 17:28
+FLOW-129,Story,Done,2026-10-07 05:45,In Progress,Waiting for Review,2026-10-09 13:09
+FLOW-129,Story,Done,2026-10-07 05:45,Waiting for Review,In Review,2026-10-12 20:19
+FLOW-129,Story,Done,2026-10-07 05:45,In Review,In Progress,2026-10-14 04:09
+FLOW-129,Story,Done,2026-10-07 05:45,In Progress,Waiting for Review,2026-10-19 12:12
+FLOW-129,Story,Done,2026-10-07 05:45,Waiting for Review,In Review,2026-10-20 02:41
+FLOW-129,Story,Done,2026-10-07 05:45,In Review,Ready for Deploy,2026-10-20 06:21
+FLOW-129,Story,Done,2026-10-07 05:45,Ready for Deploy,Done,2026-10-23 00:09
+FLOW-130,Bug,Done,2026-10-16 02:27,To Do,In Progress,2026-10-18 20:41
+FLOW-130,Bug,Done,2026-10-16 02:27,In Progress,Waiting for Review,2026-10-20 13:34
+FLOW-130,Bug,Done,2026-10-16 02:27,Waiting for Review,In Review,2026-10-21 04:45
+FLOW-130,Bug,Done,2026-10-16 02:27,In Review,Ready for Deploy,2026-10-22 05:09
+FLOW-130,Bug,Done,2026-10-16 02:27,Ready for Deploy,Done,2026-10-22 08:43
+FLOW-131,Task,Done,2026-08-13 21:28,To Do,In Progress,2026-08-17 07:53
+FLOW-131,Task,Done,2026-08-13 21:28,In Progress,Blocked,2026-08-17 22:26
+FLOW-131,Task,Done,2026-08-13 21:28,Blocked,In Progress,2026-08-19 22:26
+FLOW-131,Task,Done,2026-08-13 21:28,In Progress,Waiting for Review,2026-08-22 04:44
+FLOW-131,Task,Done,2026-08-13 21:28,Waiting for Review,In Review,2026-08-22 10:31
+FLOW-131,Task,Done,2026-08-13 21:28,In Review,In Progress,2026-08-22 21:51
+FLOW-131,Task,Done,2026-08-13 21:28,In Progress,Waiting for Review,2026-08-23 11:55
+FLOW-131,Task,Done,2026-08-13 21:28,Waiting for Review,In Review,2026-08-24 02:38
+FLOW-131,Task,Done,2026-08-13 21:28,In Review,Ready for Deploy,2026-08-25 03:36
+FLOW-131,Task,Done,2026-08-13 21:28,Ready for Deploy,Done,2026-08-27 03:58
+FLOW-132,Story,Done,2026-09-11 20:37,To Do,In Progress,2026-09-14 08:15
+FLOW-132,Story,Done,2026-09-11 20:37,In Progress,Waiting for Review,2026-09-14 17:52
+FLOW-132,Story,Done,2026-09-11 20:37,Waiting for Review,In Review,2026-09-19 11:27
+FLOW-132,Story,Done,2026-09-11 20:37,In Review,In Progress,2026-09-19 15:11
+FLOW-132,Story,Done,2026-09-11 20:37,In Progress,Waiting for Review,2026-09-21 03:22
+FLOW-132,Story,Done,2026-09-11 20:37,Waiting for Review,In Review,2026-09-22 15:47
+FLOW-132,Story,Done,2026-09-11 20:37,In Review,Ready for Deploy,2026-09-23 04:50
+FLOW-132,Story,Done,2026-09-11 20:37,Ready for Deploy,Done,2026-09-23 10:18
+FLOW-133,Task,To Do,2026-10-30 13:06,,,
+FLOW-134,Bug,Done,2026-07-23 17:01,To Do,In Progress,2026-07-25 09:24
+FLOW-134,Bug,Done,2026-07-23 17:01,In Progress,Waiting for Review,2026-07-29 11:57
+FLOW-134,Bug,Done,2026-07-23 17:01,Waiting for Review,In Review,2026-08-01 03:03
+FLOW-134,Bug,Done,2026-07-23 17:01,In Review,In Progress,2026-08-01 04:36
+FLOW-134,Bug,Done,2026-07-23 17:01,In Progress,Waiting for Review,2026-08-01 21:45
+FLOW-134,Bug,Done,2026-07-23 17:01,Waiting for Review,In Review,2026-08-02 18:45
+FLOW-134,Bug,Done,2026-07-23 17:01,In Review,Ready for Deploy,2026-08-03 05:27
+FLOW-134,Bug,Done,2026-07-23 17:01,Ready for Deploy,Done,2026-08-03 16:05
+FLOW-135,Bug,Done,2026-09-08 17:29,To Do,In Progress,2026-09-18 03:22
+FLOW-135,Bug,Done,2026-09-08 17:29,In Progress,Waiting for Review,2026-09-18 14:18
+FLOW-135,Bug,Done,2026-09-08 17:29,Waiting for Review,In Review,2026-09-18 18:34
+FLOW-135,Bug,Done,2026-09-08 17:29,In Review,Ready for Deploy,2026-09-19 09:40
+FLOW-135,Bug,Done,2026-09-08 17:29,Ready for Deploy,Done,2026-09-19 15:05
+FLOW-136,Story,Done,2026-07-29 09:38,To Do,In Progress,2026-08-14 11:27
+FLOW-136,Story,Done,2026-07-29 09:38,In Progress,Waiting for Review,2026-08-18 13:53
+FLOW-136,Story,Done,2026-07-29 09:38,Waiting for Review,In Review,2026-08-21 00:33
+FLOW-136,Story,Done,2026-07-29 09:38,In Review,Ready for Deploy,2026-08-22 01:43
+FLOW-136,Story,Done,2026-07-29 09:38,Ready for Deploy,Done,2026-08-22 14:05
+FLOW-137,Bug,Done,2026-07-16 10:16,To Do,In Progress,2026-07-18 18:26
+FLOW-137,Bug,Done,2026-07-16 10:16,In Progress,Waiting for Review,2026-07-19 03:39
+FLOW-137,Bug,Done,2026-07-16 10:16,Waiting for Review,In Review,2026-07-21 00:10
+FLOW-137,Bug,Done,2026-07-16 10:16,In Review,In Progress,2026-07-21 05:05
+FLOW-137,Bug,Done,2026-07-16 10:16,In Progress,Waiting for Review,2026-07-23 20:07
+FLOW-137,Bug,Done,2026-07-16 10:16,Waiting for Review,In Review,2026-07-25 08:45
+FLOW-137,Bug,Done,2026-07-16 10:16,In Review,Ready for Deploy,2026-07-25 12:08
+FLOW-137,Bug,Done,2026-07-16 10:16,Ready for Deploy,Done,2026-07-26 12:38
+FLOW-138,Story,Done,2026-08-16 11:14,To Do,In Progress,2026-08-18 11:34
+FLOW-138,Story,Done,2026-08-16 11:14,In Progress,Waiting for Review,2026-08-21 02:19
+FLOW-138,Story,Done,2026-08-16 11:14,Waiting for Review,In Review,2026-08-21 18:13
+FLOW-138,Story,Done,2026-08-16 11:14,In Review,Ready for Deploy,2026-08-24 04:36
+FLOW-138,Story,Done,2026-08-16 11:14,Ready for Deploy,Done,2026-08-25 09:28
+FLOW-139,Task,Done,2026-07-17 17:56,To Do,In Progress,2026-07-21 10:43
+FLOW-139,Task,Done,2026-07-17 17:56,In Progress,Waiting for Review,2026-07-28 16:26
+FLOW-139,Task,Done,2026-07-17 17:56,Waiting for Review,In Review,2026-07-28 18:25
+FLOW-139,Task,Done,2026-07-17 17:56,In Review,Ready for Deploy,2026-07-29 04:46
+FLOW-139,Task,Done,2026-07-17 17:56,Ready for Deploy,Done,2026-07-29 16:39
+FLOW-140,Bug,Done,2026-09-14 04:38,To Do,In Progress,2026-09-15 23:52
+FLOW-140,Bug,Done,2026-09-14 04:38,In Progress,Waiting for Review,2026-09-17 08:00
+FLOW-140,Bug,Done,2026-09-14 04:38,Waiting for Review,In Review,2026-09-17 14:17
+FLOW-140,Bug,Done,2026-09-14 04:38,In Review,Ready for Deploy,2026-09-18 02:09
+FLOW-140,Bug,Done,2026-09-14 04:38,Ready for Deploy,Done,2026-09-18 03:23
+FLOW-141,Task,Done,2026-10-02 18:31,To Do,In Progress,2026-10-08 10:22
+FLOW-141,Task,Done,2026-10-02 18:31,In Progress,Waiting for Review,2026-10-08 20:47
+FLOW-141,Task,Done,2026-10-02 18:31,Waiting for Review,In Review,2026-10-09 09:22
+FLOW-141,Task,Done,2026-10-02 18:31,In Review,Ready for Deploy,2026-10-10 16:32
+FLOW-141,Task,Done,2026-10-02 18:31,Ready for Deploy,Done,2026-10-13 09:38
+FLOW-142,Bug,Done,2026-10-25 12:23,To Do,In Progress,2026-10-26 20:26
+FLOW-142,Bug,Done,2026-10-25 12:23,In Progress,Waiting for Review,2026-10-27 10:57
+FLOW-142,Bug,Done,2026-10-25 12:23,Waiting for Review,In Review,2026-10-27 21:13
+FLOW-142,Bug,Done,2026-10-25 12:23,In Review,Ready for Deploy,2026-10-28 02:52
+FLOW-142,Bug,Done,2026-10-25 12:23,Ready for Deploy,Done,2026-10-28 11:38
+FLOW-143,Story,Done,2026-09-11 06:57,To Do,In Progress,2026-09-19 14:42
+FLOW-143,Story,Done,2026-09-11 06:57,In Progress,Waiting for Review,2026-09-20 03:22
+FLOW-143,Story,Done,2026-09-11 06:57,Waiting for Review,In Review,2026-09-21 04:49
+FLOW-143,Story,Done,2026-09-11 06:57,In Review,Ready for Deploy,2026-09-21 13:31
+FLOW-143,Story,Done,2026-09-11 06:57,Ready for Deploy,Done,2026-09-24 07:18
+FLOW-144,Story,Done,2026-08-04 00:18,To Do,In Progress,2026-08-10 10:37
+FLOW-144,Story,Done,2026-08-04 00:18,In Progress,Waiting for Review,2026-08-12 01:21
+FLOW-144,Story,Done,2026-08-04 00:18,Waiting for Review,In Review,2026-08-12 19:22
+FLOW-144,Story,Done,2026-08-04 00:18,In Review,Ready for Deploy,2026-08-13 00:02
+FLOW-144,Story,Done,2026-08-04 00:18,Ready for Deploy,Done,2026-08-14 00:18
+FLOW-145,Task,Done,2026-07-27 15:23,To Do,In Progress,2026-08-01 06:29
+FLOW-145,Task,Done,2026-07-27 15:23,In Progress,Waiting for Review,2026-08-03 00:14
+FLOW-145,Task,Done,2026-07-27 15:23,Waiting for Review,In Review,2026-08-03 03:25
+FLOW-145,Task,Done,2026-07-27 15:23,In Review,Ready for Deploy,2026-08-04 11:14
+FLOW-145,Task,Done,2026-07-27 15:23,Ready for Deploy,Done,2026-08-04 19:11
+FLOW-146,Story,Done,2026-08-02 00:00,To Do,In Progress,2026-08-26 20:05
+FLOW-146,Story,Done,2026-08-02 00:00,In Progress,Blocked,2026-08-29 05:59
+FLOW-146,Story,Done,2026-08-02 00:00,Blocked,In Progress,2026-09-02 16:32
+FLOW-146,Story,Done,2026-08-02 00:00,In Progress,Waiting for Review,2026-09-04 06:12
+FLOW-146,Story,Done,2026-08-02 00:00,Waiting for Review,In Review,2026-09-06 21:59
+FLOW-146,Story,Done,2026-08-02 00:00,In Review,In Progress,2026-09-07 11:32
+FLOW-146,Story,Done,2026-08-02 00:00,In Progress,Waiting for Review,2026-09-10 16:45
+FLOW-146,Story,Done,2026-08-02 00:00,Waiting for Review,In Review,2026-09-11 07:54
+FLOW-146,Story,Done,2026-08-02 00:00,In Review,Ready for Deploy,2026-09-11 16:27
+FLOW-146,Story,Done,2026-08-02 00:00,Ready for Deploy,Done,2026-09-11 23:24
+FLOW-147,Bug,Done,2026-07-16 03:41,To Do,In Progress,2026-07-22 01:44
+FLOW-147,Bug,Done,2026-07-16 03:41,In Progress,Waiting for Review,2026-07-23 21:47
+FLOW-147,Bug,Done,2026-07-16 03:41,Waiting for Review,In Review,2026-07-24 09:47
+FLOW-147,Bug,Done,2026-07-16 03:41,In Review,Ready for Deploy,2026-07-24 18:02
+FLOW-147,Bug,Done,2026-07-16 03:41,Ready for Deploy,Done,2026-07-27 01:07
+FLOW-148,Story,Done,2026-07-21 00:34,To Do,In Progress,2026-08-16 13:22
+FLOW-148,Story,Done,2026-07-21 00:34,In Progress,Waiting for Review,2026-08-18 20:52
+FLOW-148,Story,Done,2026-07-21 00:34,Waiting for Review,In Review,2026-08-22 12:22
+FLOW-148,Story,Done,2026-07-21 00:34,In Review,Ready for Deploy,2026-08-23 21:32
+FLOW-148,Story,Done,2026-07-21 00:34,Ready for Deploy,Done,2026-08-25 08:53
+FLOW-149,Bug,Done,2026-09-26 15:24,To Do,In Progress,2026-09-28 19:37
+FLOW-149,Bug,Done,2026-09-26 15:24,In Progress,Waiting for Review,2026-09-29 03:03
+FLOW-149,Bug,Done,2026-09-26 15:24,Waiting for Review,In Review,2026-09-30 14:25
+FLOW-149,Bug,Done,2026-09-26 15:24,In Review,Ready for Deploy,2026-09-30 20:47
+FLOW-149,Bug,Done,2026-09-26 15:24,Ready for Deploy,Done,2026-10-02 04:05
+FLOW-150,Task,Done,2026-08-16 05:35,To Do,In Progress,2026-08-20 10:07
+FLOW-150,Task,Done,2026-08-16 05:35,In Progress,Waiting for Review,2026-08-21 00:48
+FLOW-150,Task,Done,2026-08-16 05:35,Waiting for Review,In Review,2026-08-21 03:38
+FLOW-150,Task,Done,2026-08-16 05:35,In Review,Ready for Deploy,2026-08-21 08:14
+FLOW-150,Task,Done,2026-08-16 05:35,Ready for Deploy,Done,2026-08-21 17:25
+FLOW-151,Story,Done,2026-10-03 01:57,To Do,In Progress,2026-10-06 00:42
+FLOW-151,Story,Done,2026-10-03 01:57,In Progress,Blocked,2026-10-06 11:51
+FLOW-151,Story,Done,2026-10-03 01:57,Blocked,In Progress,2026-10-07 06:23
+FLOW-151,Story,Done,2026-10-03 01:57,In Progress,Waiting for Review,2026-10-08 15:44
+FLOW-151,Story,Done,2026-10-03 01:57,Waiting for Review,In Review,2026-10-09 04:30
+FLOW-151,Story,Done,2026-10-03 01:57,In Review,Ready for Deploy,2026-10-09 14:44
+FLOW-151,Story,Done,2026-10-03 01:57,Ready for Deploy,Done,2026-10-09 18:15
+FLOW-152,Task,Done,2026-09-05 15:39,To Do,In Progress,2026-09-10 16:43
+FLOW-152,Task,Done,2026-09-05 15:39,In Progress,Waiting for Review,2026-09-14 03:31
+FLOW-152,Task,Done,2026-09-05 15:39,Waiting for Review,In Review,2026-09-15 09:58
+FLOW-152,Task,Done,2026-09-05 15:39,In Review,Ready for Deploy,2026-09-15 15:59
+FLOW-152,Task,Done,2026-09-05 15:39,Ready for Deploy,Done,2026-09-15 17:20
+FLOW-153,Story,Done,2026-09-05 17:52,To Do,In Progress,2026-09-09 01:16
+FLOW-153,Story,Done,2026-09-05 17:52,In Progress,Waiting for Review,2026-09-12 13:03
+FLOW-153,Story,Done,2026-09-05 17:52,Waiting for Review,In Review,2026-09-13 13:00
+FLOW-153,Story,Done,2026-09-05 17:52,In Review,Ready for Deploy,2026-09-14 03:31
+FLOW-153,Story,Done,2026-09-05 17:52,Ready for Deploy,Done,2026-09-14 13:41
+FLOW-154,Story,Done,2026-09-14 02:11,To Do,In Progress,2026-09-20 18:32
+FLOW-154,Story,Done,2026-09-14 02:11,In Progress,Waiting for Review,2026-09-24 19:45
+FLOW-154,Story,Done,2026-09-14 02:11,Waiting for Review,In Review,2026-09-26 10:03
+FLOW-154,Story,Done,2026-09-14 02:11,In Review,Ready for Deploy,2026-09-27 13:41
+FLOW-154,Story,Done,2026-09-14 02:11,Ready for Deploy,Done,2026-10-01 09:36
+FLOW-155,Task,Done,2026-10-01 23:37,To Do,In Progress,2026-10-05 12:35
+FLOW-155,Task,Done,2026-10-01 23:37,In Progress,Blocked,2026-10-05 14:56
+FLOW-155,Task,Done,2026-10-01 23:37,Blocked,In Progress,2026-10-07 20:01
+FLOW-155,Task,Done,2026-10-01 23:37,In Progress,Waiting for Review,2026-10-08 03:21
+FLOW-155,Task,Done,2026-10-01 23:37,Waiting for Review,In Review,2026-10-08 17:02
+FLOW-155,Task,Done,2026-10-01 23:37,In Review,Ready for Deploy,2026-10-08 18:45
+FLOW-155,Task,Done,2026-10-01 23:37,Ready for Deploy,Done,2026-10-09 07:58
+FLOW-156,Story,Done,2026-08-25 06:00,To Do,In Progress,2026-08-27 06:09
+FLOW-156,Story,Done,2026-08-25 06:00,In Progress,Waiting for Review,2026-09-03 20:33
+FLOW-156,Story,Done,2026-08-25 06:00,Waiting for Review,In Review,2026-09-04 13:31
+FLOW-156,Story,Done,2026-08-25 06:00,In Review,Ready for Deploy,2026-09-05 16:39
+FLOW-156,Story,Done,2026-08-25 06:00,Ready for Deploy,Done,2026-09-06 16:44
+FLOW-157,Bug,Done,2026-07-06 05:33,To Do,In Progress,2026-07-10 01:29
+FLOW-157,Bug,Done,2026-07-06 05:33,In Progress,Waiting for Review,2026-07-12 09:24
+FLOW-157,Bug,Done,2026-07-06 05:33,Waiting for Review,In Review,2026-07-13 04:50
+FLOW-157,Bug,Done,2026-07-06 05:33,In Review,Ready for Deploy,2026-07-13 18:10
+FLOW-157,Bug,Done,2026-07-06 05:33,Ready for Deploy,Done,2026-07-16 11:54
+FLOW-158,Story,Done,2026-06-30 11:02,To Do,In Progress,2026-07-04 08:38
+FLOW-158,Story,Done,2026-06-30 11:02,In Progress,Waiting for Review,2026-07-04 17:07
+FLOW-158,Story,Done,2026-06-30 11:02,Waiting for Review,In Review,2026-07-08 07:20
+FLOW-158,Story,Done,2026-06-30 11:02,In Review,Ready for Deploy,2026-07-08 17:32
+FLOW-158,Story,Done,2026-06-30 11:02,Ready for Deploy,Done,2026-07-09 05:23
+FLOW-159,Story,Done,2026-10-15 01:11,To Do,In Progress,2026-10-15 19:54
+FLOW-159,Story,Done,2026-10-15 01:11,In Progress,Waiting for Review,2026-10-20 03:45
+FLOW-159,Story,Done,2026-10-15 01:11,Waiting for Review,In Review,2026-10-24 05:16
+FLOW-159,Story,Done,2026-10-15 01:11,In Review,Ready for Deploy,2026-10-24 08:07
+FLOW-159,Story,Done,2026-10-15 01:11,Ready for Deploy,Done,2026-10-24 10:15
+FLOW-160,Story,To Do,2026-10-28 01:22,,,
+FLOW-161,Story,Done,2026-10-12 12:54,To Do,In Progress,2026-10-13 05:35
+FLOW-161,Story,Done,2026-10-12 12:54,In Progress,Waiting for Review,2026-10-16 23:37
+FLOW-161,Story,Done,2026-10-12 12:54,Waiting for Review,In Review,2026-10-19 07:31
+FLOW-161,Story,Done,2026-10-12 12:54,In Review,Ready for Deploy,2026-10-19 21:56
+FLOW-161,Story,Done,2026-10-12 12:54,Ready for Deploy,Done,2026-10-20 03:47
+FLOW-162,Task,Done,2026-07-04 05:26,To Do,In Progress,2026-07-06 05:18
+FLOW-162,Task,Done,2026-07-04 05:26,In Progress,Waiting for Review,2026-07-07 12:07
+FLOW-162,Task,Done,2026-07-04 05:26,Waiting for Review,In Review,2026-07-07 21:44
+FLOW-162,Task,Done,2026-07-04 05:26,In Review,Ready for Deploy,2026-07-08 18:02
+FLOW-162,Task,Done,2026-07-04 05:26,Ready for Deploy,Done,2026-07-10 14:46
+FLOW-163,Story,Done,2026-08-31 16:25,To Do,In Progress,2026-09-08 02:32
+FLOW-163,Story,Done,2026-08-31 16:25,In Progress,Waiting for Review,2026-09-09 14:02
+FLOW-163,Story,Done,2026-08-31 16:25,Waiting for Review,In Review,2026-09-11 05:21
+FLOW-163,Story,Done,2026-08-31 16:25,In Review,Ready for Deploy,2026-09-13 07:01
+FLOW-163,Story,Done,2026-08-31 16:25,Ready for Deploy,Done,2026-09-13 19:33
+FLOW-164,Task,Done,2026-10-02 17:18,To Do,In Progress,2026-10-10 02:37
+FLOW-164,Task,Done,2026-10-02 17:18,In Progress,Waiting for Review,2026-10-11 17:31
+FLOW-164,Task,Done,2026-10-02 17:18,Waiting for Review,In Review,2026-10-12 02:34
+FLOW-164,Task,Done,2026-10-02 17:18,In Review,Ready for Deploy,2026-10-12 06:36
+FLOW-164,Task,Done,2026-10-02 17:18,Ready for Deploy,Done,2026-10-15 04:32
+FLOW-165,Story,Done,2026-09-16 19:35,To Do,In Progress,2026-09-22 12:30
+FLOW-165,Story,Done,2026-09-16 19:35,In Progress,Waiting for Review,2026-09-23 18:17
+FLOW-165,Story,Done,2026-09-16 19:35,Waiting for Review,In Review,2026-09-23 20:19
+FLOW-165,Story,Done,2026-09-16 19:35,In Review,Ready for Deploy,2026-09-25 00:56
+FLOW-165,Story,Done,2026-09-16 19:35,Ready for Deploy,Done,2026-09-25 09:22
+FLOW-166,Story,Done,2026-08-12 18:45,To Do,In Progress,2026-08-20 01:53
+FLOW-166,Story,Done,2026-08-12 18:45,In Progress,Waiting for Review,2026-08-20 22:29
+FLOW-166,Story,Done,2026-08-12 18:45,Waiting for Review,In Review,2026-08-20 23:59
+FLOW-166,Story,Done,2026-08-12 18:45,In Review,Ready for Deploy,2026-08-22 19:46
+FLOW-166,Story,Done,2026-08-12 18:45,Ready for Deploy,Done,2026-08-23 00:11
+FLOW-167,Bug,Done,2026-09-23 16:37,To Do,In Progress,2026-09-26 01:40
+FLOW-167,Bug,Done,2026-09-23 16:37,In Progress,Waiting for Review,2026-09-27 23:40
+FLOW-167,Bug,Done,2026-09-23 16:37,Waiting for Review,In Review,2026-09-28 11:08
+FLOW-167,Bug,Done,2026-09-23 16:37,In Review,Ready for Deploy,2026-09-28 12:29
+FLOW-167,Bug,Done,2026-09-23 16:37,Ready for Deploy,Done,2026-09-28 21:13
+FLOW-168,Story,Done,2026-08-10 01:00,To Do,In Progress,2026-08-13 22:31
+FLOW-168,Story,Done,2026-08-10 01:00,In Progress,Waiting for Review,2026-08-15 21:08
+FLOW-168,Story,Done,2026-08-10 01:00,Waiting for Review,In Review,2026-08-16 14:18
+FLOW-168,Story,Done,2026-08-10 01:00,In Review,Ready for Deploy,2026-08-17 11:14
+FLOW-168,Story,Done,2026-08-10 01:00,Ready for Deploy,Done,2026-08-18 02:54
+FLOW-169,Bug,Done,2026-08-15 01:39,To Do,In Progress,2026-08-19 17:14
+FLOW-169,Bug,Done,2026-08-15 01:39,In Progress,Waiting for Review,2026-08-20 08:05
+FLOW-169,Bug,Done,2026-08-15 01:39,Waiting for Review,In Review,2026-08-21 08:45
+FLOW-169,Bug,Done,2026-08-15 01:39,In Review,Ready for Deploy,2026-08-22 11:59
+FLOW-169,Bug,Done,2026-08-15 01:39,Ready for Deploy,Done,2026-08-23 14:30
+FLOW-170,Story,Done,2026-09-22 21:29,To Do,In Progress,2026-10-01 12:19
+FLOW-170,Story,Done,2026-09-22 21:29,In Progress,Waiting for Review,2026-10-03 20:01
+FLOW-170,Story,Done,2026-09-22 21:29,Waiting for Review,In Review,2026-10-08 14:38
+FLOW-170,Story,Done,2026-09-22 21:29,In Review,Ready for Deploy,2026-10-09 17:34
+FLOW-170,Story,Done,2026-09-22 21:29,Ready for Deploy,Done,2026-10-10 07:25
+FLOW-171,Story,Done,2026-08-20 18:37,To Do,In Progress,2026-08-22 17:59
+FLOW-171,Story,Done,2026-08-20 18:37,In Progress,Blocked,2026-08-31 22:51
+FLOW-171,Story,Done,2026-08-20 18:37,Blocked,In Progress,2026-09-03 10:05
+FLOW-171,Story,Done,2026-08-20 18:37,In Progress,Waiting for Review,2026-09-06 11:00
+FLOW-171,Story,Done,2026-08-20 18:37,Waiting for Review,In Review,2026-09-06 16:05
+FLOW-171,Story,Done,2026-08-20 18:37,In Review,Ready for Deploy,2026-09-07 22:30
+FLOW-171,Story,Done,2026-08-20 18:37,Ready for Deploy,Done,2026-09-09 00:00
+FLOW-172,Task,Done,2026-10-09 06:07,To Do,In Progress,2026-10-11 01:19
+FLOW-172,Task,Done,2026-10-09 06:07,In Progress,Waiting for Review,2026-10-16 23:55
+FLOW-172,Task,Done,2026-10-09 06:07,Waiting for Review,In Review,2026-10-17 06:59
+FLOW-172,Task,Done,2026-10-09 06:07,In Review,Ready for Deploy,2026-10-18 04:08
+FLOW-172,Task,Done,2026-10-09 06:07,Ready for Deploy,Done,2026-10-18 08:23
+FLOW-173,Story,Done,2026-09-24 06:28,To Do,In Progress,2026-09-24 15:36
+FLOW-173,Story,Done,2026-09-24 06:28,In Progress,Blocked,2026-09-25 02:30
+FLOW-173,Story,Done,2026-09-24 06:28,Blocked,In Progress,2026-09-27 15:17
+FLOW-173,Story,Done,2026-09-24 06:28,In Progress,Waiting for Review,2026-09-28 14:13
+FLOW-173,Story,Done,2026-09-24 06:28,Waiting for Review,In Review,2026-10-04 18:22
+FLOW-173,Story,Done,2026-09-24 06:28,In Review,Ready for Deploy,2026-10-04 21:23
+FLOW-173,Story,Done,2026-09-24 06:28,Ready for Deploy,Done,2026-10-07 02:38
+FLOW-174,Bug,Done,2026-10-17 07:54,To Do,In Progress,2026-10-19 12:50
+FLOW-174,Bug,Done,2026-10-17 07:54,In Progress,Waiting for Review,2026-10-20 11:05
+FLOW-174,Bug,Done,2026-10-17 07:54,Waiting for Review,In Review,2026-10-21 22:17
+FLOW-174,Bug,Done,2026-10-17 07:54,In Review,Ready for Deploy,2026-10-23 15:18
+FLOW-174,Bug,Done,2026-10-17 07:54,Ready for Deploy,Done,2026-10-24 00:22
+FLOW-175,Bug,Done,2026-10-15 17:31,To Do,In Progress,2026-10-20 23:01
+FLOW-175,Bug,Done,2026-10-15 17:31,In Progress,Waiting for Review,2026-10-22 11:35
+FLOW-175,Bug,Done,2026-10-15 17:31,Waiting for Review,In Review,2026-10-22 18:06
+FLOW-175,Bug,Done,2026-10-15 17:31,In Review,In Progress,2026-10-22 20:02
+FLOW-175,Bug,Done,2026-10-15 17:31,In Progress,Waiting for Review,2026-10-23 07:06
+FLOW-175,Bug,Done,2026-10-15 17:31,Waiting for Review,In Review,2026-10-23 22:10
+FLOW-175,Bug,Done,2026-10-15 17:31,In Review,Ready for Deploy,2026-10-24 00:50
+FLOW-175,Bug,Done,2026-10-15 17:31,Ready for Deploy,Done,2026-10-24 13:23
+FLOW-176,Bug,Done,2026-09-20 07:04,To Do,In Progress,2026-09-24 18:19
+FLOW-176,Bug,Done,2026-09-20 07:04,In Progress,Waiting for Review,2026-09-26 15:13
+FLOW-176,Bug,Done,2026-09-20 07:04,Waiting for Review,In Review,2026-09-27 02:52
+FLOW-176,Bug,Done,2026-09-20 07:04,In Review,Ready for Deploy,2026-09-27 14:07
+FLOW-176,Bug,Done,2026-09-20 07:04,Ready for Deploy,Done,2026-09-29 22:57
+FLOW-177,Bug,Done,2026-10-18 12:55,To Do,In Progress,2026-10-19 09:10
+FLOW-177,Bug,Done,2026-10-18 12:55,In Progress,Waiting for Review,2026-10-19 14:45
+FLOW-177,Bug,Done,2026-10-18 12:55,Waiting for Review,In Review,2026-10-19 20:21
+FLOW-177,Bug,Done,2026-10-18 12:55,In Review,Ready for Deploy,2026-10-19 22:57
+FLOW-177,Bug,Done,2026-10-18 12:55,Ready for Deploy,Done,2026-10-20 06:49
+FLOW-178,Story,Done,2026-07-07 14:33,To Do,In Progress,2026-07-15 22:47
+FLOW-178,Story,Done,2026-07-07 14:33,In Progress,Waiting for Review,2026-07-18 02:31
+FLOW-178,Story,Done,2026-07-07 14:33,Waiting for Review,In Review,2026-07-18 13:31
+FLOW-178,Story,Done,2026-07-07 14:33,In Review,Ready for Deploy,2026-07-18 16:38
+FLOW-178,Story,Done,2026-07-07 14:33,Ready for Deploy,Done,2026-07-20 11:51
+FLOW-179,Bug,Done,2026-08-15 07:27,To Do,In Progress,2026-08-15 15:54
+FLOW-179,Bug,Done,2026-08-15 07:27,In Progress,Waiting for Review,2026-08-15 18:34
+FLOW-179,Bug,Done,2026-08-15 07:27,Waiting for Review,In Review,2026-08-16 05:33
+FLOW-179,Bug,Done,2026-08-15 07:27,In Review,Ready for Deploy,2026-08-16 10:07
+FLOW-179,Bug,Done,2026-08-15 07:27,Ready for Deploy,Done,2026-08-16 17:32
+FLOW-180,Story,To Do,2026-10-27 12:03,,,
+FLOW-181,Task,To Do,2026-10-27 03:14,,,
+FLOW-182,Story,Done,2026-09-29 05:23,To Do,In Progress,2026-09-30 11:25
+FLOW-182,Story,Done,2026-09-29 05:23,In Progress,Waiting for Review,2026-10-02 17:26
+FLOW-182,Story,Done,2026-09-29 05:23,Waiting for Review,In Review,2026-10-03 23:39
+FLOW-182,Story,Done,2026-09-29 05:23,In Review,Ready for Deploy,2026-10-04 10:36
+FLOW-182,Story,Done,2026-09-29 05:23,Ready for Deploy,Done,2026-10-04 15:15
+FLOW-183,Story,Done,2026-08-26 10:14,To Do,In Progress,2026-08-27 12:41
+FLOW-183,Story,Done,2026-08-26 10:14,In Progress,Waiting for Review,2026-08-28 21:43
+FLOW-183,Story,Done,2026-08-26 10:14,Waiting for Review,In Review,2026-08-29 18:37
+FLOW-183,Story,Done,2026-08-26 10:14,In Review,In Progress,2026-08-30 11:28
+FLOW-183,Story,Done,2026-08-26 10:14,In Progress,Waiting for Review,2026-08-31 19:22
+FLOW-183,Story,Done,2026-08-26 10:14,Waiting for Review,In Review,2026-09-02 13:44
+FLOW-183,Story,Done,2026-08-26 10:14,In Review,Ready for Deploy,2026-09-02 15:28
+FLOW-183,Story,Done,2026-08-26 10:14,Ready for Deploy,Done,2026-09-02 19:59
+FLOW-184,Story,Done,2026-07-17 20:28,To Do,In Progress,2026-07-22 05:45
+FLOW-184,Story,Done,2026-07-17 20:28,In Progress,Waiting for Review,2026-08-02 08:55
+FLOW-184,Story,Done,2026-07-17 20:28,Waiting for Review,In Review,2026-08-03 16:59
+FLOW-184,Story,Done,2026-07-17 20:28,In Review,Ready for Deploy,2026-08-04 05:27
+FLOW-184,Story,Done,2026-07-17 20:28,Ready for Deploy,Done,2026-08-05 01:51
+FLOW-185,Story,Done,2026-08-31 14:38,To Do,In Progress,2026-09-04 03:51
+FLOW-185,Story,Done,2026-08-31 14:38,In Progress,Waiting for Review,2026-09-04 08:14
+FLOW-185,Story,Done,2026-08-31 14:38,Waiting for Review,In Review,2026-09-04 18:23
+FLOW-185,Story,Done,2026-08-31 14:38,In Review,Ready for Deploy,2026-09-04 21:36
+FLOW-185,Story,Done,2026-08-31 14:38,Ready for Deploy,Done,2026-09-05 11:02
+FLOW-186,Task,Done,2026-09-22 23:44,To Do,In Progress,2026-09-26 23:33
+FLOW-186,Task,Done,2026-09-22 23:44,In Progress,Blocked,2026-09-27 12:14
+FLOW-186,Task,Done,2026-09-22 23:44,Blocked,In Progress,2026-09-27 22:07
+FLOW-186,Task,Done,2026-09-22 23:44,In Progress,Waiting for Review,2026-09-29 08:56
+FLOW-186,Task,Done,2026-09-22 23:44,Waiting for Review,In Review,2026-09-30 02:20
+FLOW-186,Task,Done,2026-09-22 23:44,In Review,Ready for Deploy,2026-09-30 04:31
+FLOW-186,Task,Done,2026-09-22 23:44,Ready for Deploy,Done,2026-10-05 08:13
+FLOW-187,Task,Done,2026-09-18 18:05,To Do,In Progress,2026-09-19 12:08
+FLOW-187,Task,Done,2026-09-18 18:05,In Progress,Waiting for Review,2026-09-24 06:39
+FLOW-187,Task,Done,2026-09-18 18:05,Waiting for Review,In Review,2026-09-24 14:48
+FLOW-187,Task,Done,2026-09-18 18:05,In Review,Ready for Deploy,2026-09-25 04:19
+FLOW-187,Task,Done,2026-09-18 18:05,Ready for Deploy,Done,2026-09-25 19:03
+FLOW-188,Story,Done,2026-09-20 17:09,To Do,In Progress,2026-09-23 16:01
+FLOW-188,Story,Done,2026-09-20 17:09,In Progress,Waiting for Review,2026-09-30 02:11
+FLOW-188,Story,Done,2026-09-20 17:09,Waiting for Review,In Review,2026-09-30 23:49
+FLOW-188,Story,Done,2026-09-20 17:09,In Review,Ready for Deploy,2026-10-02 07:28
+FLOW-188,Story,Done,2026-09-20 17:09,Ready for Deploy,Done,2026-10-05 08:30
+FLOW-189,Story,Done,2026-09-10 06:54,To Do,In Progress,2026-09-12 04:52
+FLOW-189,Story,Done,2026-09-10 06:54,In Progress,Waiting for Review,2026-09-12 06:13
+FLOW-189,Story,Done,2026-09-10 06:54,Waiting for Review,In Review,2026-09-13 20:42
+FLOW-189,Story,Done,2026-09-10 06:54,In Review,Ready for Deploy,2026-09-15 00:04
+FLOW-189,Story,Done,2026-09-10 06:54,Ready for Deploy,Done,2026-09-16 08:29
+FLOW-190,Bug,Done,2026-07-23 19:13,To Do,In Progress,2026-07-25 07:20
+FLOW-190,Bug,Done,2026-07-23 19:13,In Progress,Waiting for Review,2026-07-27 12:21
+FLOW-190,Bug,Done,2026-07-23 19:13,Waiting for Review,In Review,2026-07-27 21:44
+FLOW-190,Bug,Done,2026-07-23 19:13,In Review,Ready for Deploy,2026-07-28 22:16
+FLOW-190,Bug,Done,2026-07-23 19:13,Ready for Deploy,Done,2026-07-30 19:28
+FLOW-191,Task,Done,2026-08-09 05:21,To Do,In Progress,2026-08-15 13:09
+FLOW-191,Task,Done,2026-08-09 05:21,In Progress,Waiting for Review,2026-08-15 16:13
+FLOW-191,Task,Done,2026-08-09 05:21,Waiting for Review,In Review,2026-08-16 20:57
+FLOW-191,Task,Done,2026-08-09 05:21,In Review,Ready for Deploy,2026-08-17 10:28
+FLOW-191,Task,Done,2026-08-09 05:21,Ready for Deploy,Done,2026-08-19 05:42
+FLOW-192,Story,In Progress,2026-10-25 13:42,To Do,In Progress,2026-10-26 14:40
+FLOW-193,Story,In Review,2026-10-12 04:32,To Do,In Progress,2026-10-23 10:14
+FLOW-193,Story,In Review,2026-10-12 04:32,In Progress,Waiting for Review,2026-10-23 17:44
+FLOW-193,Story,In Review,2026-10-12 04:32,Waiting for Review,In Review,2026-10-26 16:25
+FLOW-193,Story,In Review,2026-10-12 04:32,In Review,In Progress,2026-10-26 17:50
+FLOW-193,Story,In Review,2026-10-12 04:32,In Progress,Waiting for Review,2026-10-27 04:22
+FLOW-193,Story,In Review,2026-10-12 04:32,Waiting for Review,In Review,2026-10-29 16:32
+FLOW-194,Story,Done,2026-08-13 23:54,To Do,In Progress,2026-08-20 08:12
+FLOW-194,Story,Done,2026-08-13 23:54,In Progress,Waiting for Review,2026-08-25 03:56
+FLOW-194,Story,Done,2026-08-13 23:54,Waiting for Review,In Review,2026-08-27 12:13
+FLOW-194,Story,Done,2026-08-13 23:54,In Review,Ready for Deploy,2026-08-28 17:40
+FLOW-194,Story,Done,2026-08-13 23:54,Ready for Deploy,Done,2026-08-29 12:05
+FLOW-195,Story,Done,2026-09-23 13:52,To Do,In Progress,2026-09-24 01:16
+FLOW-195,Story,Done,2026-09-23 13:52,In Progress,Waiting for Review,2026-09-26 14:19
+FLOW-195,Story,Done,2026-09-23 13:52,Waiting for Review,In Review,2026-09-29 16:36
+FLOW-195,Story,Done,2026-09-23 13:52,In Review,In Progress,2026-10-03 07:39
+FLOW-195,Story,Done,2026-09-23 13:52,In Progress,Waiting for Review,2026-10-06 19:15
+FLOW-195,Story,Done,2026-09-23 13:52,Waiting for Review,In Review,2026-10-07 12:50
+FLOW-195,Story,Done,2026-09-23 13:52,In Review,Ready for Deploy,2026-10-07 15:32
+FLOW-195,Story,Done,2026-09-23 13:52,Ready for Deploy,Done,2026-10-09 04:54
+FLOW-196,Task,Done,2026-09-15 12:27,To Do,In Progress,2026-09-15 16:37
+FLOW-196,Task,Done,2026-09-15 12:27,In Progress,Waiting for Review,2026-09-16 10:17
+FLOW-196,Task,Done,2026-09-15 12:27,Waiting for Review,In Review,2026-09-16 12:39
+FLOW-196,Task,Done,2026-09-15 12:27,In Review,Ready for Deploy,2026-09-16 18:19
+FLOW-196,Task,Done,2026-09-15 12:27,Ready for Deploy,Done,2026-09-17 09:43
+FLOW-197,Story,Done,2026-09-09 18:16,To Do,In Progress,2026-09-10 22:18
+FLOW-197,Story,Done,2026-09-09 18:16,In Progress,Waiting for Review,2026-09-11 04:26
+FLOW-197,Story,Done,2026-09-09 18:16,Waiting for Review,In Review,2026-09-13 16:35
+FLOW-197,Story,Done,2026-09-09 18:16,In Review,Ready for Deploy,2026-09-14 07:42
+FLOW-197,Story,Done,2026-09-09 18:16,Ready for Deploy,Done,2026-09-14 18:49
+FLOW-198,Task,Done,2026-07-22 19:17,To Do,In Progress,2026-07-25 10:31
+FLOW-198,Task,Done,2026-07-22 19:17,In Progress,Waiting for Review,2026-07-27 09:53
+FLOW-198,Task,Done,2026-07-22 19:17,Waiting for Review,In Review,2026-07-29 09:17
+FLOW-198,Task,Done,2026-07-22 19:17,In Review,Ready for Deploy,2026-07-29 16:48
+FLOW-198,Task,Done,2026-07-22 19:17,Ready for Deploy,Done,2026-07-30 02:33
+FLOW-199,Story,Done,2026-07-10 04:42,To Do,In Progress,2026-07-15 13:26
+FLOW-199,Story,Done,2026-07-10 04:42,In Progress,Waiting for Review,2026-07-18 03:45
+FLOW-199,Story,Done,2026-07-10 04:42,Waiting for Review,In Review,2026-07-18 20:51
+FLOW-199,Story,Done,2026-07-10 04:42,In Review,Ready for Deploy,2026-07-19 02:12
+FLOW-199,Story,Done,2026-07-10 04:42,Ready for Deploy,Done,2026-07-21 22:35
+FLOW-200,Story,Done,2026-09-04 18:45,To Do,In Progress,2026-09-07 17:06
+FLOW-200,Story,Done,2026-09-04 18:45,In Progress,Waiting for Review,2026-09-08 20:59
+FLOW-200,Story,Done,2026-09-04 18:45,Waiting for Review,In Review,2026-09-09 08:17
+FLOW-200,Story,Done,2026-09-04 18:45,In Review,In Progress,2026-09-10 02:47
+FLOW-200,Story,Done,2026-09-04 18:45,In Progress,Waiting for Review,2026-09-10 05:19
+FLOW-200,Story,Done,2026-09-04 18:45,Waiting for Review,In Review,2026-09-12 09:33
+FLOW-200,Story,Done,2026-09-04 18:45,In Review,Ready for Deploy,2026-09-12 18:00
+FLOW-200,Story,Done,2026-09-04 18:45,Ready for Deploy,Done,2026-09-12 19:30
+FLOW-201,Task,Done,2026-07-05 16:16,To Do,In Progress,2026-07-13 05:47
+FLOW-201,Task,Done,2026-07-05 16:16,In Progress,Waiting for Review,2026-07-17 08:57
+FLOW-201,Task,Done,2026-07-05 16:16,Waiting for Review,In Review,2026-07-18 16:17
+FLOW-201,Task,Done,2026-07-05 16:16,In Review,Ready for Deploy,2026-07-18 20:07
+FLOW-201,Task,Done,2026-07-05 16:16,Ready for Deploy,Done,2026-07-20 14:07
+FLOW-202,Story,Done,2026-07-31 08:41,To Do,In Progress,2026-08-08 01:40
+FLOW-202,Story,Done,2026-07-31 08:41,In Progress,Waiting for Review,2026-08-10 19:27
+FLOW-202,Story,Done,2026-07-31 08:41,Waiting for Review,In Review,2026-08-13 01:08
+FLOW-202,Story,Done,2026-07-31 08:41,In Review,Ready for Deploy,2026-08-13 16:35
+FLOW-202,Story,Done,2026-07-31 08:41,Ready for Deploy,Done,2026-08-17 05:55
+FLOW-203,Bug,Done,2026-08-21 23:44,To Do,In Progress,2026-08-23 16:09
+FLOW-203,Bug,Done,2026-08-21 23:44,In Progress,Waiting for Review,2026-08-23 22:25
+FLOW-203,Bug,Done,2026-08-21 23:44,Waiting for Review,In Review,2026-08-25 17:09
+FLOW-203,Bug,Done,2026-08-21 23:44,In Review,In Progress,2026-08-25 21:46
+FLOW-203,Bug,Done,2026-08-21 23:44,In Progress,Waiting for Review,2026-08-26 18:18
+FLOW-203,Bug,Done,2026-08-21 23:44,Waiting for Review,In Review,2026-08-26 23:22
+FLOW-203,Bug,Done,2026-08-21 23:44,In Review,Ready for Deploy,2026-08-27 13:55
+FLOW-203,Bug,Done,2026-08-21 23:44,Ready for Deploy,Done,2026-08-29 12:17
+FLOW-204,Story,Done,2026-09-26 02:22,To Do,In Progress,2026-09-27 22:20
+FLOW-204,Story,Done,2026-09-26 02:22,In Progress,Waiting for Review,2026-10-02 08:00
+FLOW-204,Story,Done,2026-09-26 02:22,Waiting for Review,In Review,2026-10-03 04:08
+FLOW-204,Story,Done,2026-09-26 02:22,In Review,Ready for Deploy,2026-10-04 04:59
+FLOW-204,Story,Done,2026-09-26 02:22,Ready for Deploy,Done,2026-10-06 07:36
+FLOW-205,Story,Done,2026-07-17 17:11,To Do,In Progress,2026-07-26 04:25
+FLOW-205,Story,Done,2026-07-17 17:11,In Progress,Waiting for Review,2026-07-26 20:57
+FLOW-205,Story,Done,2026-07-17 17:11,Waiting for Review,In Review,2026-07-28 06:38
+FLOW-205,Story,Done,2026-07-17 17:11,In Review,In Progress,2026-07-28 23:59
+FLOW-205,Story,Done,2026-07-17 17:11,In Progress,Waiting for Review,2026-07-30 07:34
+FLOW-205,Story,Done,2026-07-17 17:11,Waiting for Review,In Review,2026-08-01 14:36
+FLOW-205,Story,Done,2026-07-17 17:11,In Review,Ready for Deploy,2026-08-02 03:32
+FLOW-205,Story,Done,2026-07-17 17:11,Ready for Deploy,Done,2026-08-02 08:08
+FLOW-206,Story,Done,2026-08-13 21:26,To Do,In Progress,2026-08-20 15:31
+FLOW-206,Story,Done,2026-08-13 21:26,In Progress,Waiting for Review,2026-08-23 11:40
+FLOW-206,Story,Done,2026-08-13 21:26,Waiting for Review,In Review,2026-08-24 14:10
+FLOW-206,Story,Done,2026-08-13 21:26,In Review,Ready for Deploy,2026-08-25 16:15
+FLOW-206,Story,Done,2026-08-13 21:26,Ready for Deploy,Done,2026-08-29 22:55
+FLOW-207,Story,Done,2026-08-08 07:35,To Do,In Progress,2026-08-25 13:44
+FLOW-207,Story,Done,2026-08-08 07:35,In Progress,Waiting for Review,2026-08-26 14:47
+FLOW-207,Story,Done,2026-08-08 07:35,Waiting for Review,In Review,2026-08-27 19:06
+FLOW-207,Story,Done,2026-08-08 07:35,In Review,Ready for Deploy,2026-08-28 11:19
+FLOW-207,Story,Done,2026-08-08 07:35,Ready for Deploy,Done,2026-08-30 00:50
+FLOW-208,Story,Done,2026-08-20 18:17,To Do,In Progress,2026-08-21 02:10
+FLOW-208,Story,Done,2026-08-20 18:17,In Progress,Waiting for Review,2026-08-21 05:39
+FLOW-208,Story,Done,2026-08-20 18:17,Waiting for Review,In Review,2026-08-27 21:21
+FLOW-208,Story,Done,2026-08-20 18:17,In Review,In Progress,2026-08-28 00:20
+FLOW-208,Story,Done,2026-08-20 18:17,In Progress,Waiting for Review,2026-08-28 17:35
+FLOW-208,Story,Done,2026-08-20 18:17,Waiting for Review,In Review,2026-08-29 17:00
+FLOW-208,Story,Done,2026-08-20 18:17,In Review,Ready for Deploy,2026-08-30 01:17
+FLOW-208,Story,Done,2026-08-20 18:17,Ready for Deploy,Done,2026-08-30 19:10
+FLOW-209,Task,Done,2026-10-03 02:08,To Do,In Progress,2026-10-03 20:15
+FLOW-209,Task,Done,2026-10-03 02:08,In Progress,Waiting for Review,2026-10-04 19:58
+FLOW-209,Task,Done,2026-10-03 02:08,Waiting for Review,In Review,2026-10-04 23:16
+FLOW-209,Task,Done,2026-10-03 02:08,In Review,Ready for Deploy,2026-10-05 07:14
+FLOW-209,Task,Done,2026-10-03 02:08,Ready for Deploy,Done,2026-10-05 21:39
+FLOW-210,Task,Done,2026-07-02 16:56,To Do,In Progress,2026-07-05 05:26
+FLOW-210,Task,Done,2026-07-02 16:56,In Progress,Waiting for Review,2026-07-05 17:57
+FLOW-210,Task,Done,2026-07-02 16:56,Waiting for Review,In Review,2026-07-06 04:14
+FLOW-210,Task,Done,2026-07-02 16:56,In Review,Ready for Deploy,2026-07-07 21:21
+FLOW-210,Task,Done,2026-07-02 16:56,Ready for Deploy,Done,2026-07-08 10:05
+FLOW-211,Task,Done,2026-10-22 03:17,To Do,In Progress,2026-10-23 01:42
+FLOW-211,Task,Done,2026-10-22 03:17,In Progress,Waiting for Review,2026-10-23 08:22
+FLOW-211,Task,Done,2026-10-22 03:17,Waiting for Review,In Review,2026-10-24 23:33
+FLOW-211,Task,Done,2026-10-22 03:17,In Review,Ready for Deploy,2026-10-25 06:52
+FLOW-211,Task,Done,2026-10-22 03:17,Ready for Deploy,Done,2026-10-26 11:28
+FLOW-212,Bug,Done,2026-10-13 10:58,To Do,In Progress,2026-10-14 23:13
+FLOW-212,Bug,Done,2026-10-13 10:58,In Progress,Waiting for Review,2026-10-21 18:11
+FLOW-212,Bug,Done,2026-10-13 10:58,Waiting for Review,In Review,2026-10-22 22:06
+FLOW-212,Bug,Done,2026-10-13 10:58,In Review,In Progress,2026-10-23 01:17
+FLOW-212,Bug,Done,2026-10-13 10:58,In Progress,Waiting for Review,2026-10-25 18:14
+FLOW-212,Bug,Done,2026-10-13 10:58,Waiting for Review,In Review,2026-10-26 09:24
+FLOW-212,Bug,Done,2026-10-13 10:58,In Review,Ready for Deploy,2026-10-26 18:14
+FLOW-212,Bug,Done,2026-10-13 10:58,Ready for Deploy,Done,2026-10-28 07:39
+FLOW-213,Story,Done,2026-07-23 14:40,To Do,In Progress,2026-07-25 14:38
+FLOW-213,Story,Done,2026-07-23 14:40,In Progress,Waiting for Review,2026-08-05 00:03
+FLOW-213,Story,Done,2026-07-23 14:40,Waiting for Review,In Review,2026-08-10 07:31
+FLOW-213,Story,Done,2026-07-23 14:40,In Review,Ready for Deploy,2026-08-10 19:54
+FLOW-213,Story,Done,2026-07-23 14:40,Ready for Deploy,Done,2026-08-13 06:46
+FLOW-214,Story,Done,2026-07-01 10:38,To Do,In Progress,2026-07-10 19:30
+FLOW-214,Story,Done,2026-07-01 10:38,In Progress,Blocked,2026-07-13 02:02
+FLOW-214,Story,Done,2026-07-01 10:38,Blocked,In Progress,2026-07-13 04:23
+FLOW-214,Story,Done,2026-07-01 10:38,In Progress,Waiting for Review,2026-07-14 00:05
+FLOW-214,Story,Done,2026-07-01 10:38,Waiting for Review,In Review,2026-07-14 05:11
+FLOW-214,Story,Done,2026-07-01 10:38,In Review,Ready for Deploy,2026-07-14 14:15
+FLOW-214,Story,Done,2026-07-01 10:38,Ready for Deploy,Done,2026-07-14 19:48
+FLOW-215,Story,Done,2026-09-16 08:32,To Do,In Progress,2026-09-17 02:22
+FLOW-215,Story,Done,2026-09-16 08:32,In Progress,Waiting for Review,2026-09-18 21:37
+FLOW-215,Story,Done,2026-09-16 08:32,Waiting for Review,In Review,2026-09-22 10:34
+FLOW-215,Story,Done,2026-09-16 08:32,In Review,Ready for Deploy,2026-09-22 12:24
+FLOW-215,Story,Done,2026-09-16 08:32,Ready for Deploy,Done,2026-09-24 20:38
+FLOW-216,Task,Done,2026-09-29 16:15,To Do,In Progress,2026-09-29 20:38
+FLOW-216,Task,Done,2026-09-29 16:15,In Progress,Waiting for Review,2026-10-11 09:26
+FLOW-216,Task,Done,2026-09-29 16:15,Waiting for Review,In Review,2026-10-13 00:31
+FLOW-216,Task,Done,2026-09-29 16:15,In Review,Ready for Deploy,2026-10-13 07:19
+FLOW-216,Task,Done,2026-09-29 16:15,Ready for Deploy,Done,2026-10-13 11:24
+FLOW-217,Bug,Done,2026-09-15 11:57,To Do,In Progress,2026-09-18 22:08
+FLOW-217,Bug,Done,2026-09-15 11:57,In Progress,Blocked,2026-09-19 01:47
+FLOW-217,Bug,Done,2026-09-15 11:57,Blocked,In Progress,2026-09-19 16:53
+FLOW-217,Bug,Done,2026-09-15 11:57,In Progress,Waiting for Review,2026-09-21 06:11
+FLOW-217,Bug,Done,2026-09-15 11:57,Waiting for Review,In Review,2026-09-21 21:07
+FLOW-217,Bug,Done,2026-09-15 11:57,In Review,In Progress,2026-09-22 01:43
+FLOW-217,Bug,Done,2026-09-15 11:57,In Progress,Waiting for Review,2026-09-29 23:04
+FLOW-217,Bug,Done,2026-09-15 11:57,Waiting for Review,In Review,2026-09-30 13:20
+FLOW-217,Bug,Done,2026-09-15 11:57,In Review,Ready for Deploy,2026-09-30 19:45
+FLOW-217,Bug,Done,2026-09-15 11:57,Ready for Deploy,Done,2026-10-01 17:02
+FLOW-218,Story,Done,2026-07-17 13:52,To Do,In Progress,2026-07-26 10:03
+FLOW-218,Story,Done,2026-07-17 13:52,In Progress,Waiting for Review,2026-07-29 15:48
+FLOW-218,Story,Done,2026-07-17 13:52,Waiting for Review,In Review,2026-07-29 23:58
+FLOW-218,Story,Done,2026-07-17 13:52,In Review,Ready for Deploy,2026-07-30 09:49
+FLOW-218,Story,Done,2026-07-17 13:52,Ready for Deploy,Done,2026-07-30 20:21
+FLOW-219,Story,Done,2026-09-17 07:22,To Do,In Progress,2026-09-19 14:32
+FLOW-219,Story,Done,2026-09-17 07:22,In Progress,Waiting for Review,2026-09-20 14:13
+FLOW-219,Story,Done,2026-09-17 07:22,Waiting for Review,In Review,2026-09-20 23:53
+FLOW-219,Story,Done,2026-09-17 07:22,In Review,Ready for Deploy,2026-09-22 21:18
+FLOW-219,Story,Done,2026-09-17 07:22,Ready for Deploy,Done,2026-09-24 16:18
+FLOW-220,Story,Done,2026-07-13 08:34,To Do,In Progress,2026-07-14 00:23
+FLOW-220,Story,Done,2026-07-13 08:34,In Progress,Waiting for Review,2026-07-17 10:08
+FLOW-220,Story,Done,2026-07-13 08:34,Waiting for Review,In Review,2026-07-19 11:26
+FLOW-220,Story,Done,2026-07-13 08:34,In Review,In Progress,2026-07-20 00:20
+FLOW-220,Story,Done,2026-07-13 08:34,In Progress,Waiting for Review,2026-07-22 06:31
+FLOW-220,Story,Done,2026-07-13 08:34,Waiting for Review,In Review,2026-07-23 07:28
+FLOW-220,Story,Done,2026-07-13 08:34,In Review,Ready for Deploy,2026-07-23 14:26
+FLOW-220,Story,Done,2026-07-13 08:34,Ready for Deploy,Done,2026-07-23 20:20
+FLOW-221,Story,To Do,2026-10-25 20:55,,,
+FLOW-222,Story,Done,2026-08-18 02:40,To Do,In Progress,2026-08-23 08:04
+FLOW-222,Story,Done,2026-08-18 02:40,In Progress,Waiting for Review,2026-08-23 23:37
+FLOW-222,Story,Done,2026-08-18 02:40,Waiting for Review,In Review,2026-08-25 07:37
+FLOW-222,Story,Done,2026-08-18 02:40,In Review,Ready for Deploy,2026-08-25 12:28
+FLOW-222,Story,Done,2026-08-18 02:40,Ready for Deploy,Done,2026-08-25 17:47
+FLOW-223,Task,Done,2026-09-01 15:53,To Do,In Progress,2026-09-02 18:56
+FLOW-223,Task,Done,2026-09-01 15:53,In Progress,Blocked,2026-09-03 19:41
+FLOW-223,Task,Done,2026-09-01 15:53,Blocked,In Progress,2026-09-05 14:22
+FLOW-223,Task,Done,2026-09-01 15:53,In Progress,Waiting for Review,2026-09-08 04:50
+FLOW-223,Task,Done,2026-09-01 15:53,Waiting for Review,In Review,2026-09-09 01:38
+FLOW-223,Task,Done,2026-09-01 15:53,In Review,Ready for Deploy,2026-09-09 14:10
+FLOW-223,Task,Done,2026-09-01 15:53,Ready for Deploy,Done,2026-09-10 11:52
+FLOW-224,Bug,Done,2026-10-24 12:06,To Do,In Progress,2026-10-25 06:29
+FLOW-224,Bug,Done,2026-10-24 12:06,In Progress,Waiting for Review,2026-10-27 03:21
+FLOW-224,Bug,Done,2026-10-24 12:06,Waiting for Review,In Review,2026-10-27 10:56
+FLOW-224,Bug,Done,2026-10-24 12:06,In Review,Ready for Deploy,2026-10-27 15:43
+FLOW-224,Bug,Done,2026-10-24 12:06,Ready for Deploy,Done,2026-10-27 17:03
+FLOW-225,Task,Done,2026-10-07 20:17,To Do,In Progress,2026-10-13 13:39
+FLOW-225,Task,Done,2026-10-07 20:17,In Progress,Waiting for Review,2026-10-19 20:44
+FLOW-225,Task,Done,2026-10-07 20:17,Waiting for Review,In Review,2026-10-19 23:52
+FLOW-225,Task,Done,2026-10-07 20:17,In Review,In Progress,2026-10-20 08:41
+FLOW-225,Task,Done,2026-10-07 20:17,In Progress,Waiting for Review,2026-10-21 05:42
+FLOW-225,Task,Done,2026-10-07 20:17,Waiting for Review,In Review,2026-10-21 19:05
+FLOW-225,Task,Done,2026-10-07 20:17,In Review,Ready for Deploy,2026-10-21 22:01
+FLOW-225,Task,Done,2026-10-07 20:17,Ready for Deploy,Done,2026-10-22 08:38
+FLOW-226,Story,Done,2026-10-08 01:51,To Do,In Progress,2026-10-09 03:24
+FLOW-226,Story,Done,2026-10-08 01:51,In Progress,Waiting for Review,2026-10-12 16:51
+FLOW-226,Story,Done,2026-10-08 01:51,Waiting for Review,In Review,2026-10-12 19:31
+FLOW-226,Story,Done,2026-10-08 01:51,In Review,Ready for Deploy,2026-10-12 21:57
+FLOW-226,Story,Done,2026-10-08 01:51,Ready for Deploy,Done,2026-10-13 20:13
+FLOW-227,Story,Done,2026-10-15 06:21,To Do,In Progress,2026-10-23 18:03
+FLOW-227,Story,Done,2026-10-15 06:21,In Progress,Waiting for Review,2026-10-24 02:30
+FLOW-227,Story,Done,2026-10-15 06:21,Waiting for Review,In Review,2026-10-24 19:53
+FLOW-227,Story,Done,2026-10-15 06:21,In Review,Ready for Deploy,2026-10-25 01:53
+FLOW-227,Story,Done,2026-10-15 06:21,Ready for Deploy,Done,2026-10-26 19:56
+FLOW-228,Story,To Do,2026-10-26 04:44,,,
+FLOW-229,Story,Done,2026-08-02 23:08,To Do,In Progress,2026-08-03 21:35
+FLOW-229,Story,Done,2026-08-02 23:08,In Progress,Waiting for Review,2026-08-04 16:29
+FLOW-229,Story,Done,2026-08-02 23:08,Waiting for Review,In Review,2026-08-05 05:08
+FLOW-229,Story,Done,2026-08-02 23:08,In Review,Ready for Deploy,2026-08-05 06:27
+FLOW-229,Story,Done,2026-08-02 23:08,Ready for Deploy,Done,2026-08-07 09:08
+FLOW-230,Story,Done,2026-09-03 23:09,To Do,In Progress,2026-09-08 22:09
+FLOW-230,Story,Done,2026-09-03 23:09,In Progress,Waiting for Review,2026-09-11 17:31
+FLOW-230,Story,Done,2026-09-03 23:09,Waiting for Review,In Review,2026-09-12 07:19
+FLOW-230,Story,Done,2026-09-03 23:09,In Review,Ready for Deploy,2026-09-12 15:48
+FLOW-230,Story,Done,2026-09-03 23:09,Ready for Deploy,Done,2026-09-14 17:47
+FLOW-231,Story,Done,2026-09-18 10:41,To Do,In Progress,2026-09-23 15:21
+FLOW-231,Story,Done,2026-09-18 10:41,In Progress,Waiting for Review,2026-09-25 19:40
+FLOW-231,Story,Done,2026-09-18 10:41,Waiting for Review,In Review,2026-09-27 08:28
+FLOW-231,Story,Done,2026-09-18 10:41,In Review,Ready for Deploy,2026-09-27 17:27
+FLOW-231,Story,Done,2026-09-18 10:41,Ready for Deploy,Done,2026-09-27 23:03
+FLOW-232,Story,Done,2026-08-24 20:56,To Do,In Progress,2026-08-28 14:53
+FLOW-232,Story,Done,2026-08-24 20:56,In Progress,Waiting for Review,2026-08-31 14:17
+FLOW-232,Story,Done,2026-08-24 20:56,Waiting for Review,In Review,2026-09-01 04:25
+FLOW-232,Story,Done,2026-08-24 20:56,In Review,Ready for Deploy,2026-09-01 13:53
+FLOW-232,Story,Done,2026-08-24 20:56,Ready for Deploy,Done,2026-09-01 19:07
+FLOW-233,Story,Done,2026-09-07 15:35,To Do,In Progress,2026-09-09 22:16
+FLOW-233,Story,Done,2026-09-07 15:35,In Progress,Waiting for Review,2026-09-11 00:21
+FLOW-233,Story,Done,2026-09-07 15:35,Waiting for Review,In Review,2026-09-11 13:13
+FLOW-233,Story,Done,2026-09-07 15:35,In Review,Ready for Deploy,2026-09-11 17:04
+FLOW-233,Story,Done,2026-09-07 15:35,Ready for Deploy,Done,2026-09-12 19:59
+FLOW-234,Story,Done,2026-09-27 14:00,To Do,In Progress,2026-09-30 05:29
+FLOW-234,Story,Done,2026-09-27 14:00,In Progress,Waiting for Review,2026-10-08 05:13
+FLOW-234,Story,Done,2026-09-27 14:00,Waiting for Review,In Review,2026-10-09 12:17
+FLOW-234,Story,Done,2026-09-27 14:00,In Review,Ready for Deploy,2026-10-09 15:47
+FLOW-234,Story,Done,2026-09-27 14:00,Ready for Deploy,Done,2026-10-09 20:53
+FLOW-235,Story,Done,2026-07-28 08:01,To Do,In Progress,2026-08-03 18:41
+FLOW-235,Story,Done,2026-07-28 08:01,In Progress,Waiting for Review,2026-08-04 07:35
+FLOW-235,Story,Done,2026-07-28 08:01,Waiting for Review,In Review,2026-08-06 03:28
+FLOW-235,Story,Done,2026-07-28 08:01,In Review,Ready for Deploy,2026-08-06 14:29
+FLOW-235,Story,Done,2026-07-28 08:01,Ready for Deploy,Done,2026-08-08 18:14
+FLOW-236,Bug,Done,2026-09-16 11:17,To Do,In Progress,2026-09-20 05:29
+FLOW-236,Bug,Done,2026-09-16 11:17,In Progress,Waiting for Review,2026-09-26 17:45
+FLOW-236,Bug,Done,2026-09-16 11:17,Waiting for Review,In Review,2026-09-27 01:42
+FLOW-236,Bug,Done,2026-09-16 11:17,In Review,Ready for Deploy,2026-09-28 09:29
+FLOW-236,Bug,Done,2026-09-16 11:17,Ready for Deploy,Done,2026-09-28 18:53
+FLOW-237,Story,Done,2026-09-20 02:44,To Do,In Progress,2026-09-22 02:11
+FLOW-237,Story,Done,2026-09-20 02:44,In Progress,Waiting for Review,2026-09-22 06:51
+FLOW-237,Story,Done,2026-09-20 02:44,Waiting for Review,In Review,2026-09-23 04:26
+FLOW-237,Story,Done,2026-09-20 02:44,In Review,Ready for Deploy,2026-09-23 10:59
+FLOW-237,Story,Done,2026-09-20 02:44,Ready for Deploy,Done,2026-09-24 09:50
+FLOW-238,Story,Done,2026-08-18 00:15,To Do,In Progress,2026-08-29 15:49
+FLOW-238,Story,Done,2026-08-18 00:15,In Progress,Blocked,2026-09-01 02:17
+FLOW-238,Story,Done,2026-08-18 00:15,Blocked,In Progress,2026-09-03 06:25
+FLOW-238,Story,Done,2026-08-18 00:15,In Progress,Waiting for Review,2026-09-04 20:53
+FLOW-238,Story,Done,2026-08-18 00:15,Waiting for Review,In Review,2026-09-05 21:21
+FLOW-238,Story,Done,2026-08-18 00:15,In Review,Ready for Deploy,2026-09-06 21:09
+FLOW-238,Story,Done,2026-08-18 00:15,Ready for Deploy,Done,2026-09-10 07:47
+FLOW-239,Story,Done,2026-10-08 19:36,To Do,In Progress,2026-10-12 17:46
+FLOW-239,Story,Done,2026-10-08 19:36,In Progress,Waiting for Review,2026-10-13 04:47
+FLOW-239,Story,Done,2026-10-08 19:36,Waiting for Review,In Review,2026-10-13 07:49
+FLOW-239,Story,Done,2026-10-08 19:36,In Review,Ready for Deploy,2026-10-13 10:35
+FLOW-239,Story,Done,2026-10-08 19:36,Ready for Deploy,Done,2026-10-16 22:22
+FLOW-240,Story,Done,2026-07-12 02:26,To Do,In Progress,2026-07-13 20:38
+FLOW-240,Story,Done,2026-07-12 02:26,In Progress,Waiting for Review,2026-07-15 08:23
+FLOW-240,Story,Done,2026-07-12 02:26,Waiting for Review,In Review,2026-07-16 02:15
+FLOW-240,Story,Done,2026-07-12 02:26,In Review,Ready for Deploy,2026-07-16 14:06
+FLOW-240,Story,Done,2026-07-12 02:26,Ready for Deploy,Done,2026-07-16 21:31
