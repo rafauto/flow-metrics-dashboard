@@ -55,7 +55,7 @@ class JiraAdapter:
                 "item_id": issues.index,
                 "item_type": issues["item_type"].to_numpy(),
                 "created_at": issues["created_at"].to_numpy(),
-                "from_status": pd.NA,
+                "from_status": pd.Series(pd.NA, index=issues.index, dtype="string").to_numpy(),
                 "to_status": to_status.to_numpy(),
                 "changed_at": issues["created_at"].to_numpy(),
             }

@@ -77,7 +77,7 @@ def daily_snapshots(intervals: pd.DataFrame, as_of: pd.Timestamp) -> pd.DataFram
         return pd.DataFrame(columns=["date", *CATEGORY_ORDER])
     days = pd.date_range(intervals["start"].min().normalize(), as_of.normalize(), freq="D")
     starts = intervals["start"].to_numpy()
-    ends = intervals["end"].fillna(pd.Timestamp.max).to_numpy()
+    ends = intervals["end"].fillna(as_of + DAY).to_numpy()  # open intervals last past as_of
     categories = intervals["category"].to_numpy()
     rows = []
     for day in days:
