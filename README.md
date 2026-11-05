@@ -10,7 +10,7 @@ A Streamlit dashboard that turns a Jira or Azure DevOps card export into flow me
 
 **Live demo:** https://flow-metrics-dashboard.streamlit.app (opens with fictional demo data, no sign-up)
 
-![Flow Metrics Dashboard showing five KPI cards (lead time, cycle time, throughput, WIP, flow efficiency) above a cycle time scatter plot with 50th, 85th and 95th percentile lines](docs/screenshots/dashboard.png)
+![Animated tour of the dashboard: the five KPI cards, the cycle time scatter plot with percentile lines, weekly throughput, daily WIP, the cumulative flow diagram and the status mapping in the sidebar](docs/screenshots/demo.gif)
 
 ## Why I built this
 
@@ -45,6 +45,10 @@ Throughput:         7.4 items per week (complete weeks)
 WIP now:            3 items
 Flow efficiency:    56%
 ```
+
+The same numbers in the app (demo mode):
+
+![Dashboard in demo mode: lead time 15.3 days, cycle time 9.7 days, throughput 7.4 per week, WIP 3 and flow efficiency 56%, above the weekly throughput chart](docs/screenshots/dashboard.png)
 
 How to read it: half of the items were finished within 5.2 days of being started, and 85% within 9.7 days, so "about 10 days" is a defensible answer to "when will this new item be done?". The three sample formats (Jira, Azure DevOps and canonical) hold the same fictional board and produce identical numbers; a test checks this.
 
