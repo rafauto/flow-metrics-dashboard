@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=68", "wheel"]
+requires = ["setuptools>=77", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -7,7 +7,8 @@ name = "flow-metrics-dashboard"
 version = "0.1.0"
 description = "Streamlit dashboard that turns a Jira or Azure DevOps card export into flow metrics: lead time, cycle time, throughput, WIP and flow efficiency."
 readme = "README.md"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [{ name = "Rafaela Uto" }]
 requires-python = ">=3.10"
 keywords = ["flow-metrics", "kanban", "agile", "streamlit", "jira", "azure-devops"]
@@ -15,7 +16,6 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.12",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 # Keep minimum versions in sync with requirements.txt (used by Streamlit Community Cloud).

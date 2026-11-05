@@ -144,4 +144,4 @@ def analyze(
 
 def _week_start(timestamps: pd.Series) -> pd.Series:
     days = timestamps.dt.normalize()
-    return days - pd.to_timedelta(days.dt.weekday, unit="D")
+    return days - pd.to_timedelta(days.dt.day_of_week, unit="D")
