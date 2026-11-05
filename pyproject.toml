@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flow-metrics-dashboard"
+version = "0.1.0"
+description = "Streamlit dashboard that turns a Jira or Azure DevOps card export into flow metrics: lead time, cycle time, throughput, WIP and flow efficiency."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Rafaela Uto" }]
+requires-python = ">=3.10"
+keywords = ["flow-metrics", "kanban", "agile", "streamlit", "jira", "azure-devops"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pandas>=2.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+app = [
+    "streamlit>=1.37",
+    "plotly>=5.20",
+]
+dev = [
+    "flow-metrics-dashboard[app]",
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+flow-metrics = "flow_metrics.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/rafauto/flow-metrics-dashboard"
+Issues = "https://github.com/rafauto/flow-metrics-dashboard/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+flow_metrics = ["default_workflow.yaml"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

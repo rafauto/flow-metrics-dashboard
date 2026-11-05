@@ -1,0 +1,7 @@
+# Used only by Streamlit Community Cloud to install the app at deploy time.
+# Local development uses pyproject.toml instead: pip install -e ".[dev]"
+# Keep these minimum versions in sync with pyproject.toml.
+pandas>=2.0
+pyyaml>=6.0
+streamlit>=1.37
+plotly>=5.20

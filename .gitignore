@@ -1,0 +1,39 @@
+# --- Secrets (never commit) ---
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# --- Private data (only fictional samples live in examples/) ---
+data/
+*.private.csv
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Caches and tool output ---
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Operating system ---
+.DS_Store
+Thumbs.db

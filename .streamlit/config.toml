@@ -1,0 +1,9 @@
+[server]
+# Keep in sync with FLOW_METRICS_MAX_UPLOAD_MB (the app validates the size again).
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#3B5BDB"
