@@ -1,0 +1,34 @@
+# Maps each workflow status to one of four categories. Matching ignores case and extra spaces.
+#   backlog: work not started yet (before the commitment point)
+#   active:  someone is working on the item right now
+#   waiting: the item is started but queued or blocked (counts as WIP, not as active time)
+#   done:    finished
+backlog:
+  - New
+  - To Do
+  - Backlog
+  - Open
+  - Proposed
+  - Approved
+active:
+  - In Progress
+  - Doing
+  - Active
+  - Committed
+  - In Review
+  - Code Review
+  - Testing
+  - In QA
+waiting:
+  - Blocked
+  - On Hold
+  - Waiting for Review
+  - Ready for Review
+  - Ready for QA
+  - Ready for Deploy
+  - Waiting
+done:
+  - Done
+  - Closed
+  - Resolved
+  - Released
